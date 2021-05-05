@@ -1,3 +1,7 @@
+
+
+
+
 // Карта
 function initMap() {
 	var opt = {
